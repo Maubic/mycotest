@@ -1,0 +1,281 @@
+{
+  "observatorios": [
+    {
+      "id": 1,
+      "año": 2023,
+      "mes": 7,
+      "semana": 30,
+      "imagen": "observatorio1.jpg"
+    },
+    {
+      "id": 2,
+      "año": 2024,
+      "mes": 6,
+      "semana": 25,
+      "imagen": "observatorio2.jpg"
+    }
+  ],
+  "setaobservatorios": [
+    {
+      "id": 1,
+      "estado": "Buen estado",
+      "presionRecolectora": 1.5,
+      "agusamiento": "bajo",
+      "prevision": "Abundante",
+      "setaId": 1,
+      "observatorioId": 1,
+      "demarcacionId": 1
+    },
+    {
+      "id": 2,
+      "estado": "Regular",
+      "presionRecolectora": 2.3,
+      "agusamiento": "medio",
+      "prevision": "Moderada",
+      "setaId": 2,
+      "observatorioId": 2,
+      "demarcacionId": 2
+    }
+  ],
+  "demarcaciones": [
+    {
+      "id": 1,
+      "nombre": "Comarca de la Jacetania"
+    },
+    {
+      "id": 2,
+      "nombre": "Comarca de la Ribera Alta del Ebro"
+    },
+    {
+      "id": 3,
+      "nombre": "Comarca de la Hoya de Huesca"
+    },
+    {
+      "id": 4,
+      "nombre": "Comarca de la Ribera Baja del Ebro"
+    },
+    {
+      "id": 5,
+      "nombre": "Comarca de Cinco Villas"
+    },
+    {
+      "id": 6,
+      "nombre": "Comarca de la Navarra Media"
+    }
+  ],
+  "setas": [
+    {
+      "id": 1,
+      "nombre": "Boletus edulis",
+      "nombreCientifico": "Boletus edulis",
+      "descripcion": "Un hongo comestible muy apreciado.",
+      "otrosNombres": "Seta de calabaza, hongo blanco",
+      "urlMicoaragon": "https://micoaragon.com/boletus-edulis"
+    },
+    {
+      "id": 2,
+      "nombre": "Amanita muscaria",
+      "nombreCientifico": "Amanita muscaria",
+      "descripcion": "Un hongo tóxico conocido por su capuchón rojo con pintas blancas.",
+      "otrosNombres": "Matamoscas, falsa oronja",
+      "urlMicoaragon": "https://micoaragon.com/amanita-muscaria"
+    },
+    {
+      "id": 3,
+      "nombre": "Cantharellus cibarius",
+      "nombreCientifico": "Cantharellus cibarius",
+      "descripcion": "Hongo comestible con un característico color amarillo.",
+      "otrosNombres": "Rebozuelo, chantarela",
+      "urlMicoaragon": "https://micoaragon.com/cantharellus-cibarius"
+    },
+    {
+      "id": 4,
+      "nombre": "Lactarius deliciosus",
+      "nombreCientifico": "Lactarius deliciosus",
+      "descripcion": "Hongo comestible con látex anaranjado.",
+      "otrosNombres": "Níscalo, rovellón",
+      "urlMicoaragon": "https://micoaragon.com/lactarius-deliciosus"
+    },
+    {
+      "id": 5,
+      "nombre": "Macrolepiota procera",
+      "nombreCientifico": "Macrolepiota procera",
+      "descripcion": "Hongo comestible con sombrero grande y escamas pardas.",
+      "otrosNombres": "Parasol, galamperna",
+      "urlMicoaragon": "https://micoaragon.com/macrolepiota-procera"
+    },
+    {
+      "id": 6,
+      "nombre": "Russula cyanoxantha",
+      "nombreCientifico": "Russula cyanoxantha",
+      "descripcion": "Hongo comestible con cutícula viscosa de color variable.",
+      "otrosNombres": "Carbonera, golosa",
+      "urlMicoaragon": "https://micoaragon.com/russula-cyanoxantha"
+    },
+    {
+      "id": 7,
+      "nombre": "Marasmius oreades",
+      "nombreCientifico": "Marasmius oreades",
+      "descripcion": "Hongo comestible con sombrero convexo y pie delgado.",
+      "otrosNombres": "Senderuela, carrerilla",
+      "urlMicoaragon": "https://micoaragon.com/marasmius-oreades"
+    },
+    {
+      "id": 8,
+      "nombre": "Agaricus campestris",
+      "nombreCientifico": "Agaricus campestris",
+      "descripcion": "Hongo comestible con sombrero blanco y láminas rosadas.",
+      "otrosNombres": "Champiñón silvestre, champiñón de campo",
+      "urlMicoaragon": "https://micoaragon.com/agaricus-campestris"
+    },
+    {
+      "id": 9,
+      "nombre": "Pleurotus ostreatus",
+      "nombreCientifico": "Pleurotus ostreatus",
+      "descripcion": "Hongo comestible con sombrero en forma de ostra.",
+      "otrosNombres": "Seta de ostra, orellana",
+      "urlMicoaragon": "https://micoaragon.com/pleurotus-ostreatus"
+    },
+    {
+      "id": 10,
+      "nombre": "Tricholoma terreum",
+      "nombreCientifico": "Tricholoma terreum",
+      "descripcion": "Hongo comestible con sombrero grisáceo y escamoso.",
+      "otrosNombres": "Negrilla, ratón",
+      "urlMicoaragon": "https://micoaragon.com/tricholoma-terreum"
+    },
+    {
+      "id": 11,
+      "nombre": "Coprinus comatus",
+      "nombreCientifico": "Coprinus comatus",
+      "descripcion": "Hongo comestible cuando joven, se desintegra al madurar.",
+      "otrosNombres": "Barbuda, sombrero de tinta",
+      "urlMicoaragon": "https://micoaragon.com/coprinus-comatus"
+    },
+    {
+      "id": 12,
+      "nombre": "Clitocybe nuda",
+      "nombreCientifico": "Clitocybe nuda",
+      "descripcion": "Hongo comestible con color violeta característico.",
+      "otrosNombres": "Pie azul, lilás",
+      "urlMicoaragon": "https://micoaragon.com/clitocybe-nuda"
+    }
+  ],
+  "setasimilares": [
+    {
+      "id": 1,
+      "setaId1": 1,
+      "setaId2": 2,
+      "descripcionSimilitud": "Ambas tienen un sombrero marrón y se encuentran en bosques de coníferas."
+    },
+    {
+      "id": 2,
+      "setaId1": 3,
+      "setaId2": 4,
+      "descripcionSimilitud": "Ambas tienen un color amarillo anaranjado y crecen en bosques de pinos."
+    }
+  ],
+  "valoresTaxonomia": [
+    {
+      "id": 1,
+      "nombre": "Comestible",
+      "descripcion": "La seta es apta para el consumo humano.",
+      "urlImagen": "comestible.jpg",
+      "categoriaTaxonomiaId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Venenosa",
+      "descripcion": "La seta es tóxica y no debe ser consumida.",
+      "urlImagen": "venenosa.jpg",
+      "categoriaTaxonomiaId": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Sin interés gastronómico",
+      "descripcion": "La seta no tiene valor culinario.",
+      "urlImagen": "sin-interes.jpg",
+      "categoriaTaxonomiaId": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Tallo largo",
+      "descripcion": "La seta tiene un tallo de longitud considerable.",
+      "urlImagen": "tallo-largo.jpg",
+      "categoriaTaxonomiaId": 2
+    },
+    {
+      "id": 5,
+      "nombre": "Tallo corto",
+      "descripcion": "La seta tiene un tallo de longitud reducida.",
+      "urlImagen": "tallo-corto.jpg",
+      "categoriaTaxonomiaId": 2
+    },
+    {
+      "id": 6,
+      "nombre": "Capuchón redondo",
+      "descripcion": "El capuchón de la seta es redondo.",
+      "urlImagen": "capuchon-redondo.jpg",
+      "categoriaTaxonomiaId": 3
+    },
+    {
+      "id": 7,
+      "nombre": "Capuchón con pintas rojas",
+      "descripcion": "El capuchón de la seta tiene pintas rojas.",
+      "urlImagen": "capuchon-pintas-rojas.jpg",
+      "categoriaTaxonomiaId": 3
+    }
+  ],
+  "categoriasTaxonomia": [
+    {
+      "id": 1,
+      "nombre": "Comestibilidad",
+      "descripcion": "Define si una seta es comestible, venenosa o sin interés gastronómico.",
+      "urlImagen": "comestibilidad.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Tallo",
+      "descripcion": "Define la longitud y características del tallo de la seta.",
+      "urlImagen": "tallo.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Capuchón",
+      "descripcion": "Define la forma y características del capuchón de la seta.",
+      "urlImagen": "capuchon.jpg"
+    }
+  ],
+  "setaValorTaxonomia": [
+    {
+      "id": 1,
+      "setaId": 1,
+      "valorTaxonomiaId": 1
+    },
+    {
+      "id": 2,
+      "setaId": 2,
+      "valorTaxonomiaId": 2
+    },
+    {
+      "id": 3,
+      "setaId": 3,
+      "valorTaxonomiaId": 1
+    },
+    {
+      "id": 4,
+      "setaId": 4,
+      "valorTaxonomiaId": 1
+    },
+    {
+      "id": 5,
+      "setaId": 5,
+      "valorTaxonomiaId": 4
+    },
+    {
+      "id": 6,
+      "setaId": 6,
+      "valorTaxonomiaId": 6
+    }
+  ]
+}
